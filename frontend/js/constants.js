@@ -1,8 +1,8 @@
-const contractAddress = "0x54ed72DeE5dd615B3B69bd2f53D12c65979c9D24"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xE12A2F9F96620D855141034041F3F9E77A730691"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bored Jellys NFT Project!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h2 = "Connect to MetaMask Polygon Network to Get Started";
 const welcome_p = 'Bored Jellys is a Collection of 2000 cool NFTs.';
 const h1_presale_coming_soon = "Minting Coming Soon!!";
 const h1_presale_mint = "Minting Open!!";
